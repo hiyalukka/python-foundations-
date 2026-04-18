@@ -1,4 +1,4 @@
-# python-foundations-
+# python-foundations
 Python fundamentals, practice, and projects — building toward ML/AI.
 
 Documenting my Python learning — from fundamentals to projects.
