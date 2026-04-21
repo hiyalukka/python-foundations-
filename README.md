@@ -9,16 +9,16 @@ Building Python from scratch — daily practice, real projects
 
 ```
 python-fundamentals/
-├── fundamentals/          # daily topic practice
+├── fundamentals/        
 │   ├── day-01-variables-datatypes/
 │   ├── day-02-conditionals/
 │   ├── day-03-loops/
 │   ├── day-04-lists-tuples/
 │   ├── day-05-dictionaries/
 │   └── day-06-functions/
-├── projects/              # portfolio builds
+├── projects/        
 │   └── expense-logger/
-└── practice/              # experiments
+└── practice/             
 ```
 
 
