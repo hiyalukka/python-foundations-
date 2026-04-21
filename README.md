@@ -5,7 +5,7 @@ Building Python from scratch — daily practice, real projects
 
 ---
 
-## structure
+## Structure
 
 ```
 python-fundamentals/
@@ -25,7 +25,7 @@ python-fundamentals/
 
 ---
 
-## roadmap
+## Roadmap
 
 -  Variables & data types
 -  Conditionals
